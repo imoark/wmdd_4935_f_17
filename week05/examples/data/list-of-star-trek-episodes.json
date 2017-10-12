@@ -1,0 +1,4747 @@
+{
+  "root": {
+    "EpisodeRow": [
+      {
+        "series": "ENT",
+        "episodeNumber": "6101",
+        "historicalDate": "2151-04",
+        "starDate": "4/16/2151",
+        "episodeName": "Broken Bow"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6102",
+        "historicalDate": "2151-05",
+        "starDate": "5/6/2151",
+        "episodeName": "Fight or Flight"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6103",
+        "historicalDate": "2151",
+        "episodeName": "Strange New World"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6104",
+        "historicalDate": "2151",
+        "episodeName": "Unexpected"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6105",
+        "historicalDate": "2151",
+        "episodeName": "Terra Nova"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6106",
+        "historicalDate": "2151",
+        "episodeName": "Andorian Incident"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6107",
+        "historicalDate": "2151",
+        "episodeName": "Breaking the Ice"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6108",
+        "historicalDate": "2151-07",
+        "starDate": "7/31/2151",
+        "episodeName": "Civilization"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6109",
+        "historicalDate": "2151",
+        "episodeName": "Fortunate Son"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6110",
+        "historicalDate": "2151",
+        "episodeName": "Cold Front"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6111",
+        "historicalDate": "2151-09",
+        "starDate": "9/1/2151",
+        "episodeName": "Silent Enemy"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6112",
+        "historicalDate": "2151",
+        "episodeName": "Dear Doctor"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6113",
+        "historicalDate": "2151",
+        "episodeName": "Sleeping Dogs"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6114",
+        "historicalDate": "2151",
+        "episodeName": "Shadows of P'Jem"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6115",
+        "historicalDate": "2151-11",
+        "starDate": "11/9/2151",
+        "episodeName": "Shuttlepod One"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6116",
+        "historicalDate": "2151",
+        "episodeName": "Fusion"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6117",
+        "historicalDate": "2151",
+        "episodeName": "Rogue Planet"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6118",
+        "historicalDate": "2151",
+        "episodeName": "Acquisition"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6119",
+        "historicalDate": "2152",
+        "episodeName": "Oasis"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6120",
+        "historicalDate": "2152",
+        "episodeName": "Detained"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6121",
+        "historicalDate": "2152",
+        "episodeName": "Vox Sola"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6122",
+        "historicalDate": "2152-02",
+        "starDate": "2/9/2152",
+        "episodeName": "Fallen Hero"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6123",
+        "historicalDate": "2152-02",
+        "starDate": "2/12/2152",
+        "episodeName": "Desert Crossing"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6124",
+        "historicalDate": "2152-02",
+        "starDate": "2/18/2152",
+        "episodeName": "Two Days and Two Nights"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6125",
+        "historicalDate": "2152",
+        "episodeName": "Shockwave, Part I"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6201",
+        "historicalDate": "2152",
+        "episodeName": "Shockwave, Part II"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6202",
+        "historicalDate": "2152-04",
+        "starDate": "4/*/2152",
+        "episodeName": "Carbon Creek"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6203",
+        "historicalDate": "2152",
+        "episodeName": "Minefield"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6204",
+        "historicalDate": "2152",
+        "episodeName": "Dead Stop"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6205",
+        "historicalDate": "2152",
+        "episodeName": "Night in Sickbay"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6206",
+        "historicalDate": "2152",
+        "episodeName": "Marauders"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6207",
+        "historicalDate": "2152",
+        "episodeName": "Seventh"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6208",
+        "historicalDate": "2152",
+        "episodeName": "Communicator"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6209",
+        "historicalDate": "2152",
+        "episodeName": "Singularity"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6210",
+        "historicalDate": "2152",
+        "episodeName": "Vanishing Point"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6211",
+        "historicalDate": "2152-09",
+        "starDate": "9/12/2152",
+        "episodeName": "Precious Cargo"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6212",
+        "historicalDate": "2152-09",
+        "starDate": "9/18/2152",
+        "episodeName": "Catwalk"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6213",
+        "historicalDate": "2152",
+        "episodeName": "Dawn"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6214",
+        "historicalDate": "2152",
+        "episodeName": "Stigma"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6215",
+        "historicalDate": "2152",
+        "episodeName": "Cease Fire"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6216",
+        "historicalDate": "2152",
+        "episodeName": "Future Tense"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6217",
+        "historicalDate": "2152",
+        "episodeName": "Canamar"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6218",
+        "historicalDate": "2152",
+        "episodeName": "Crossing"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6219",
+        "historicalDate": "2152",
+        "episodeName": "Judgment"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6220",
+        "historicalDate": "2153-01",
+        "starDate": "1/10/2153",
+        "episodeName": "Horizon"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6221",
+        "historicalDate": "2153",
+        "episodeName": "Breach"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6222",
+        "historicalDate": "2153",
+        "episodeName": "Cogenitor"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6223",
+        "historicalDate": "2153-03",
+        "starDate": "3/1/2153",
+        "episodeName": "Regeneration"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6224",
+        "historicalDate": "2153-03",
+        "episodeName": "First Flight"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6225",
+        "historicalDate": "2153-03",
+        "starDate": "3/21/2153",
+        "episodeName": "Bounty"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6226",
+        "historicalDate": "2153-04",
+        "starDate": "4/24/2153",
+        "episodeName": "Expanse"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6301",
+        "historicalDate": "2153",
+        "episodeName": "Xindi"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6302",
+        "historicalDate": "2153",
+        "episodeName": "Anomaly"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6303",
+        "historicalDate": "2153",
+        "episodeName": "Extinction"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6304",
+        "historicalDate": "2153",
+        "episodeName": "Rajiin"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6305",
+        "historicalDate": "2153",
+        "episodeName": "Impulse"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6306",
+        "historicalDate": "2153",
+        "episodeName": "Exile"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6307",
+        "historicalDate": "2153",
+        "episodeName": "Shipment"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6308",
+        "historicalDate": "2153",
+        "episodeName": "Twilight"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6309",
+        "historicalDate": "2153",
+        "episodeName": "North Star"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6310",
+        "historicalDate": "2153",
+        "episodeName": "Similitude"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6311",
+        "historicalDate": "2153",
+        "episodeName": "Carpenter Street"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6312",
+        "historicalDate": "2153",
+        "episodeName": "Chosen Realm"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6313",
+        "historicalDate": "2153-12",
+        "starDate": "12/6/2153",
+        "episodeName": "Proving Ground"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6314",
+        "historicalDate": "2153-12",
+        "starDate": "12/12/2153",
+        "episodeName": "Stratagem"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6315",
+        "historicalDate": "2153-12",
+        "starDate": "12/27/2153",
+        "episodeName": "Harbinger"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6316",
+        "historicalDate": "2154-01",
+        "episodeName": "Doctor's Orders"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6317",
+        "historicalDate": "2154-01",
+        "starDate": "1/8/2154",
+        "episodeName": "Hatchery"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6318",
+        "historicalDate": "2154",
+        "episodeName": "Azati Prime"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6319",
+        "historicalDate": "2154",
+        "episodeName": "Damage"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6320",
+        "historicalDate": "2154",
+        "episodeName": "Forgotten"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6321",
+        "historicalDate": "2154",
+        "episodeName": "E2"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6322",
+        "historicalDate": "2154",
+        "episodeName": "Council"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6323",
+        "historicalDate": "2154-02",
+        "starDate": "2/13/2154",
+        "episodeName": "Countdown"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6324",
+        "historicalDate": "2154-02",
+        "starDate": "2/14/2154",
+        "episodeName": "Zero Hour"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6401",
+        "historicalDate": "2154",
+        "episodeName": "Storm Front, Part I"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6402",
+        "historicalDate": "2154",
+        "episodeName": "Storm Front, Part II"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6403",
+        "historicalDate": "2154",
+        "episodeName": "Home"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6404",
+        "historicalDate": "2154-05",
+        "starDate": "5/17/2154",
+        "episodeName": "Borderland"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6405",
+        "historicalDate": "2154-05",
+        "episodeName": "Cold Station 12"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6406",
+        "historicalDate": "2154-05",
+        "starDate": "5/27/2154",
+        "episodeName": "Augments"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6407",
+        "historicalDate": "2154",
+        "episodeName": "Forge"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6408",
+        "historicalDate": "2154",
+        "episodeName": "Awakening"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6409",
+        "historicalDate": "2154",
+        "episodeName": "Kir'Shara"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6410",
+        "historicalDate": "2154",
+        "episodeName": "Daedalus"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6411",
+        "historicalDate": "2154",
+        "episodeName": "Observer Effect"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6412",
+        "historicalDate": "2154-11",
+        "starDate": "11/12/2154",
+        "episodeName": "Babel One"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6413",
+        "historicalDate": "2154-11",
+        "episodeName": "United"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6414",
+        "historicalDate": "2154-11",
+        "episodeName": "Aenar"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6415",
+        "historicalDate": "2154-11",
+        "starDate": "11/27/2154",
+        "episodeName": "Affliction"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6416",
+        "historicalDate": "2154",
+        "episodeName": "Divergence"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6417",
+        "historicalDate": "2154-12",
+        "starDate": "12/27/2154",
+        "episodeName": "Bound"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6418",
+        "historicalDate": "2154-12",
+        "episodeName": "In a Mirror, Darkly, Part I"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6419",
+        "historicalDate": "2155-01",
+        "episodeName": "In a Mirror, Darkly, Part II"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6420",
+        "historicalDate": "2155-01",
+        "starDate": "1/19/2155",
+        "episodeName": "Demons"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6421",
+        "historicalDate": "2155",
+        "episodeName": "Terra Prime"
+      },
+      {
+        "series": "ENT",
+        "episodeNumber": "6422",
+        "historicalDate": "2161",
+        "starDate": "2161",
+        "episodeName": "These Are the Voyages..."
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1101",
+        "historicalDate": "2254",
+        "episodeName": "Cage"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1102",
+        "historicalDate": "2266-10",
+        "starDate": "1312.4",
+        "episodeName": "Where No Man Has Gone Before"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1103",
+        "historicalDate": "2266-11",
+        "starDate": "1512.2",
+        "episodeName": "Corbomite Maneuver"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1104",
+        "historicalDate": "2266-10",
+        "starDate": "1329.1",
+        "episodeName": "Mudd's Women"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1105",
+        "historicalDate": "2266-12",
+        "starDate": "1672.1",
+        "episodeName": "Enemy Within"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1106",
+        "historicalDate": "2266-11",
+        "starDate": "1513.1",
+        "episodeName": "Man Trap"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1107",
+        "historicalDate": "2266-12",
+        "starDate": "1704.2",
+        "episodeName": "Naked Time"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1108",
+        "historicalDate": "2266-11",
+        "starDate": "1533.6",
+        "episodeName": "Charlie X"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1109",
+        "historicalDate": "2266-12",
+        "starDate": "1709.1",
+        "episodeName": "Balance of Terror"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1110",
+        "historicalDate": "2267-07",
+        "starDate": "2712.4",
+        "episodeName": "What Are Little Girls Made Of?"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1111",
+        "historicalDate": "2267-07",
+        "starDate": "2715.1",
+        "episodeName": "Dagger of the Mind"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1112",
+        "historicalDate": "2267-07",
+        "starDate": "2713.5",
+        "episodeName": "Miri"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1113",
+        "historicalDate": "2267-08",
+        "starDate": "2817.6",
+        "episodeName": "Conscience of the King"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1114",
+        "historicalDate": "2267-08",
+        "starDate": "2821.5",
+        "episodeName": "Galileo Seven"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1115",
+        "historicalDate": "2267-08",
+        "starDate": "2947.3",
+        "episodeName": "Court Martial"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1116",
+        "historicalDate": "2267-09",
+        "starDate": "3012.4",
+        "episodeName": "Menagerie, Part I"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1117",
+        "historicalDate": "2267-09",
+        "starDate": "3013",
+        "episodeName": "Menagerie, Part II"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1118",
+        "historicalDate": "2267-09",
+        "starDate": "3025.3",
+        "episodeName": "Shore Leave"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1119",
+        "historicalDate": "2267-03",
+        "starDate": "2124.5",
+        "episodeName": "Squire of Gothos"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1120",
+        "historicalDate": "2267-09",
+        "starDate": "3045.6",
+        "episodeName": "Arena"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1121",
+        "historicalDate": "2267-09",
+        "starDate": "3087.6",
+        "episodeName": "Alternative Factor"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1122",
+        "historicalDate": "2267-10",
+        "starDate": "3113.2",
+        "episodeName": "Tomorrow is Yesterday"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1123",
+        "historicalDate": "2267-10",
+        "starDate": "3156.2",
+        "episodeName": "Return of the Archons"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1124",
+        "historicalDate": "2267-10",
+        "starDate": "3192.1",
+        "episodeName": "Taste of Armageddon"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1125",
+        "historicalDate": "2267-10",
+        "starDate": "3141.9",
+        "episodeName": "Space Seed"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1126",
+        "historicalDate": "2267-12",
+        "starDate": "3417.3",
+        "episodeName": "This Side of Paradise"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1127",
+        "historicalDate": "2267-10",
+        "starDate": "3196.1",
+        "episodeName": "Devil in the Dark"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1128",
+        "historicalDate": "2267-10",
+        "starDate": "3198.4",
+        "episodeName": "Errand of Mercy"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1129",
+        "historicalDate": "2267-10",
+        "starDate": "3134",
+        "episodeName": "City on the Edge of Forever"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1130",
+        "historicalDate": "2267-11",
+        "starDate": "3287.2",
+        "episodeName": "Operation: Annihilate!"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1201",
+        "historicalDate": "2267-09",
+        "starDate": "3018.2",
+        "episodeName": "Catspaw"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1202",
+        "historicalDate": "2267-10",
+        "starDate": "3219.8",
+        "episodeName": "Metamorphosis"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1203",
+        "historicalDate": "2267-12",
+        "starDate": "3497.2",
+        "episodeName": "Friday's Child"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1204",
+        "historicalDate": "2267-12",
+        "starDate": "3468.1",
+        "episodeName": "Who Mourns for Adonais?"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1205",
+        "historicalDate": "2267-11",
+        "starDate": "3372.7",
+        "episodeName": "Amok Time"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1206",
+        "historicalDate": "2268-05",
+        "starDate": "4202.9",
+        "episodeName": "Doomsday Machine"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1207",
+        "historicalDate": "2268-01",
+        "starDate": "3614.9",
+        "episodeName": "Wolf in the Fold"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1208",
+        "historicalDate": "2267-12",
+        "starDate": "3541.9",
+        "episodeName": "Changeling"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1209",
+        "historicalDate": "2268-02",
+        "starDate": "3715.3",
+        "episodeName": "Apple"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1210",
+        "historicalDate": "2267",
+        "episodeName": "Mirror, Mirror"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1211",
+        "historicalDate": "2267-12",
+        "starDate": "3478.2",
+        "episodeName": "Deadly Years"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1212",
+        "historicalDate": "2268-07",
+        "starDate": "4513.3",
+        "episodeName": "I, Mudd"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1213",
+        "historicalDate": "2268-07",
+        "starDate": "4523.3",
+        "episodeName": "Trouble with Tribbles"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1214",
+        "historicalDate": "2268-04",
+        "starDate": "4040.7",
+        "episodeName": "Bread and Circuses"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1215",
+        "historicalDate": "2268-02",
+        "starDate": "3842.3",
+        "episodeName": "Journey to Babel"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1216",
+        "historicalDate": "2268-05",
+        "starDate": "4211.4",
+        "episodeName": "Private Little War"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1217",
+        "historicalDate": "2267-10",
+        "starDate": "3211.7",
+        "episodeName": "Gamesters of Triskelion"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1218",
+        "historicalDate": "2268-01",
+        "starDate": "3619.2",
+        "episodeName": "Obsession"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1219",
+        "historicalDate": "2268-05",
+        "starDate": "4307.1",
+        "episodeName": "Immunity Syndrome"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1220",
+        "historicalDate": "2268-07",
+        "starDate": "4598",
+        "episodeName": "Piece of the Action"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1221",
+        "historicalDate": "2268-08",
+        "starDate": "4657.5",
+        "episodeName": "By Any Other Name"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1222",
+        "historicalDate": "2268-08",
+        "starDate": "4768.3",
+        "episodeName": "Return to Tomorrow"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1223",
+        "historicalDate": "2267-04",
+        "starDate": "2534",
+        "episodeName": "Patterns of Force"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1224",
+        "historicalDate": "2268-08",
+        "starDate": "4729.4",
+        "episodeName": "Ultimate Computer"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1225",
+        "historicalDate": "2268",
+        "episodeName": "Omega Glory"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1226",
+        "historicalDate": "2268",
+        "episodeName": "Assignment Earth"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1301",
+        "historicalDate": "2268-06",
+        "starDate": "4385.3",
+        "episodeName": "Spectre of the Gun"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1302",
+        "historicalDate": "2268-05",
+        "starDate": "4272.5",
+        "episodeName": "Elaan of Troyius"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1303",
+        "historicalDate": "2268-09",
+        "starDate": "4842.6",
+        "episodeName": "Paradise Syndrome"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1304",
+        "historicalDate": "2268-10",
+        "starDate": "5031.3",
+        "episodeName": "Enterprise Incident"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1305",
+        "historicalDate": "2268-10",
+        "starDate": "5027.3",
+        "episodeName": "And the Children Shall Lead"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1306",
+        "historicalDate": "2269-01",
+        "starDate": "5431.4",
+        "episodeName": "Spock's Brain"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1307",
+        "historicalDate": "2269-02",
+        "starDate": "5630.7",
+        "episodeName": "Is There in Truth No Beauty?"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1308",
+        "historicalDate": "2268-11",
+        "starDate": "5121",
+        "episodeName": "Empath"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1309",
+        "historicalDate": "2269-03",
+        "starDate": "5693.4",
+        "episodeName": "Tholian Web"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1310",
+        "historicalDate": "2269-01",
+        "starDate": "5476.3",
+        "episodeName": "For the World Is Hollow and I Have Touched the Sky"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1311",
+        "historicalDate": "2269",
+        "episodeName": "Day of the Dove"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1312",
+        "historicalDate": "2269-03",
+        "starDate": "5784.2",
+        "episodeName": "Plato's Stepchildren"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1313",
+        "historicalDate": "2269-03",
+        "starDate": "5710.5",
+        "episodeName": "Wink of an Eye"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1314",
+        "historicalDate": "2269",
+        "episodeName": "That Which Survives"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1315",
+        "historicalDate": "2269-03",
+        "starDate": "5730.2",
+        "episodeName": "Let That Be Your Last Battlefield"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1316",
+        "historicalDate": "2269-03",
+        "starDate": "5718.3",
+        "episodeName": "Whom Gods Destroy"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1317",
+        "historicalDate": "2269-01",
+        "starDate": "5423.4",
+        "episodeName": "Mark of Gideon"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1318",
+        "historicalDate": "2269-03",
+        "starDate": "5725.3",
+        "episodeName": "Lights of Zetar"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1319",
+        "historicalDate": "2269-03",
+        "starDate": "5818.4",
+        "episodeName": "Cloud Minders"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1320",
+        "historicalDate": "2269-03",
+        "starDate": "5832.3",
+        "episodeName": "Way to Eden"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1321",
+        "historicalDate": "2269-04",
+        "starDate": "5843.7",
+        "episodeName": "Requiem for Methuselah"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1322",
+        "historicalDate": "2269-04",
+        "starDate": "5906.4",
+        "episodeName": "Savage Curtain"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1323",
+        "historicalDate": "2269-04",
+        "starDate": "5943.7",
+        "episodeName": "All Our Yesterdays"
+      },
+      {
+        "series": "TOS",
+        "episodeNumber": "1324",
+        "historicalDate": "2269-03",
+        "starDate": "5928.5",
+        "episodeName": "Turnabout Intruder"
+      },
+      {
+        "series": "ST1",
+        "episodeNumber": "M-01",
+        "historicalDate": "2272-01",
+        "starDate": "7412.6",
+        "episodeName": "Star Trek: The Motion Picture"
+      },
+      {
+        "series": "ST2",
+        "episodeNumber": "M-02",
+        "historicalDate": "2285-05",
+        "starDate": "8130.4",
+        "episodeName": "Star Trek 2: The Wrath of Khan"
+      },
+      {
+        "series": "ST3",
+        "episodeNumber": "M-03",
+        "historicalDate": "2285-10",
+        "starDate": "8210.3",
+        "episodeName": "Star Trek 3: The Search for Spock"
+      },
+      {
+        "series": "ST4",
+        "episodeNumber": "M-04",
+        "historicalDate": "2286-10",
+        "starDate": "8390",
+        "episodeName": "Star Trek 4: The Voyage Home"
+      },
+      {
+        "series": "ST5",
+        "episodeNumber": "M-05",
+        "historicalDate": "2287-02",
+        "starDate": "8454.1",
+        "episodeName": "Star Trek 5: The Final Frontier"
+      },
+      {
+        "series": "ST6",
+        "episodeNumber": "M-06",
+        "historicalDate": "2292-12",
+        "starDate": "9521.6",
+        "episodeName": "Star Trek 6: The Undiscovered Country"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3101",
+        "historicalDate": "2364-02",
+        "starDate": "41153.7",
+        "episodeName": "Encounter at Farpoint, Part I"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3102",
+        "historicalDate": "2364-02",
+        "starDate": "41155",
+        "episodeName": "Encounter at Farpoint, Part II"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3103",
+        "historicalDate": "2364-03",
+        "starDate": "41209.2",
+        "episodeName": "Naked Now"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3104",
+        "historicalDate": "2364-03",
+        "starDate": "41235.3",
+        "episodeName": "Code of Honor"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3105",
+        "historicalDate": "2364-04",
+        "starDate": "41294.5",
+        "episodeName": "Haven"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3106",
+        "historicalDate": "2364-04",
+        "starDate": "41263.1",
+        "episodeName": "Where No One Has Gone Before"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3107",
+        "historicalDate": "2364-05",
+        "starDate": "41386.4",
+        "episodeName": "Last Outpost"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3108",
+        "historicalDate": "2364-04",
+        "starDate": "41249.3",
+        "episodeName": "Lonely Among Us"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3109",
+        "historicalDate": "2364-04",
+        "starDate": "41255.6",
+        "episodeName": "Justice"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3110",
+        "historicalDate": "2364-09",
+        "starDate": "41723.9",
+        "episodeName": "Battle"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3111",
+        "historicalDate": "2364-08",
+        "starDate": "41590.5",
+        "episodeName": "Hide and Q"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3112",
+        "historicalDate": "2364-04",
+        "starDate": "41309.5",
+        "episodeName": "Too Short a Season"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3113",
+        "historicalDate": "2364-12",
+        "starDate": "41997.7",
+        "episodeName": "Big Goodbye"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3114",
+        "historicalDate": "2364-03",
+        "starDate": "41242.4",
+        "episodeName": "Datalore"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3115",
+        "historicalDate": "2364-08",
+        "starDate": "41636.9",
+        "episodeName": "Angel One"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3116",
+        "historicalDate": "2364-05",
+        "starDate": "41365.9",
+        "episodeName": "11001001"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3117",
+        "historicalDate": "2364-06",
+        "starDate": "41463.9",
+        "episodeName": "Home Soil"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3118",
+        "historicalDate": "2364-07",
+        "starDate": "41509.1",
+        "episodeName": "When the Bough Breaks"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3119",
+        "historicalDate": "2364-05",
+        "starDate": "41416.2",
+        "episodeName": "Coming of Age"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3120",
+        "historicalDate": "2364-07",
+        "starDate": "41503.7",
+        "episodeName": "Heart of Glory"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3121",
+        "historicalDate": "2364-10",
+        "starDate": "41798.2",
+        "episodeName": "Arsenal of Freedom"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3123",
+        "historicalDate": "2364-08",
+        "episodeName": "Symbiosis"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3122",
+        "historicalDate": "2364-08",
+        "starDate": "41601.3",
+        "episodeName": "Skin of Evil"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3124",
+        "historicalDate": "2364-09",
+        "starDate": "41697.9",
+        "episodeName": "We'll Always Have Paris"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3125",
+        "historicalDate": "2364-10",
+        "starDate": "41775.5",
+        "episodeName": "Conspiracy"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3126",
+        "historicalDate": "2364-12",
+        "starDate": "41986",
+        "episodeName": "Neutral Zone"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3201",
+        "historicalDate": "2365-01",
+        "starDate": "42073.1",
+        "episodeName": "Child"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3202",
+        "historicalDate": "2365-03",
+        "starDate": "42193.6",
+        "episodeName": "Where Silence Has Lease"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3203",
+        "historicalDate": "2365-04",
+        "starDate": "42286.3",
+        "episodeName": "Elementary, Dear Data"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3204",
+        "historicalDate": "2365-05",
+        "starDate": "42402.7",
+        "episodeName": "Outrageous Okona"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3205",
+        "historicalDate": "2365-06",
+        "starDate": "42437.5",
+        "episodeName": "Schizoid Man"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3206",
+        "historicalDate": "2365-06",
+        "starDate": "42477.2",
+        "episodeName": "Loud As a Whisper"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3207",
+        "historicalDate": "2365-06",
+        "starDate": "42494.8",
+        "episodeName": "Unnatural Selection"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3208",
+        "historicalDate": "2365-07",
+        "starDate": "42506.5",
+        "episodeName": "Matter of Honor"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3209",
+        "historicalDate": "2365-07",
+        "starDate": "42523.7",
+        "episodeName": "Measure of a Man"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3210",
+        "historicalDate": "2365-07",
+        "starDate": "42568.8",
+        "episodeName": "Dauphin"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3211",
+        "historicalDate": "2365-08",
+        "starDate": "42609.1",
+        "episodeName": "Contagion"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3212",
+        "historicalDate": "2365-08",
+        "starDate": "42625.4",
+        "episodeName": "Royale"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3213",
+        "historicalDate": "2365-09",
+        "starDate": "42679.2",
+        "episodeName": "Time Squared"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3214",
+        "historicalDate": "2365-09",
+        "starDate": "42686.4",
+        "episodeName": "Icarus Factor"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3215",
+        "historicalDate": "2365-09",
+        "starDate": "42695.3",
+        "episodeName": "Pen Pals"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3216",
+        "historicalDate": "2365-10",
+        "starDate": "42761.3",
+        "episodeName": "Q Who?"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3217",
+        "historicalDate": "2365-10",
+        "starDate": "42779.1",
+        "episodeName": "Samaritan Snare"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3218",
+        "historicalDate": "2365-10",
+        "starDate": "42823.2",
+        "episodeName": "Up the Long Ladder"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3219",
+        "historicalDate": "2365-11",
+        "starDate": "42859.2",
+        "episodeName": "Manhunt"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3220",
+        "historicalDate": "2365-11",
+        "starDate": "42901.3",
+        "episodeName": "Emissary"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3221",
+        "historicalDate": "2365-12",
+        "starDate": "42923.4",
+        "episodeName": "Peak Performance"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3222",
+        "historicalDate": "2365-12",
+        "starDate": "42976.1",
+        "episodeName": "Shades of Gray"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3302",
+        "historicalDate": "2366-02",
+        "starDate": "43125.8",
+        "episodeName": "Evolution"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3301",
+        "historicalDate": "2366-02",
+        "starDate": "43133.3",
+        "episodeName": "Ensigns of Command"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3303",
+        "historicalDate": "2366-02",
+        "starDate": "43152.4",
+        "episodeName": "Survivors"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3304",
+        "historicalDate": "2366-03",
+        "starDate": "43173.5",
+        "episodeName": "Who Watches the Watchers?"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3305",
+        "historicalDate": "2366-03",
+        "starDate": "43198.7",
+        "episodeName": "Bonding"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3306",
+        "historicalDate": "2366-03",
+        "starDate": "43205.6",
+        "episodeName": "Booby Trap"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3307",
+        "historicalDate": "2366-05",
+        "starDate": "43349.2",
+        "episodeName": "Enemy"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3308",
+        "historicalDate": "2366-05",
+        "starDate": "43385.6",
+        "episodeName": "Price"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3309",
+        "historicalDate": "2366-06",
+        "starDate": "43421.9",
+        "episodeName": "Vengeance Factor"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3310",
+        "historicalDate": "2366-06",
+        "starDate": "43462.5",
+        "episodeName": "Defector"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3311",
+        "historicalDate": "2366-06",
+        "starDate": "43489.2",
+        "episodeName": "Hunted"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3312",
+        "historicalDate": "2366-07",
+        "starDate": "43510.7",
+        "episodeName": "High Ground"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3313",
+        "historicalDate": "2366-07",
+        "starDate": "43539.1",
+        "episodeName": "Deja Q"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3314",
+        "historicalDate": "2366-08",
+        "starDate": "43610.4",
+        "episodeName": "Matter of Perspective"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3315",
+        "historicalDate": "2366-08",
+        "starDate": "43625.2",
+        "episodeName": "Yesterday's Enterprise"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3316",
+        "historicalDate": "2366-08",
+        "starDate": "43657",
+        "episodeName": "Offspring"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3317",
+        "historicalDate": "2366-09",
+        "starDate": "43685.2",
+        "episodeName": "Sins of the Father"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3318",
+        "historicalDate": "2366-09",
+        "starDate": "43714.1",
+        "episodeName": "Allegiance"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3319",
+        "historicalDate": "2366-09",
+        "starDate": "43745.2",
+        "episodeName": "Captain's Holiday"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3320",
+        "historicalDate": "2366-10",
+        "starDate": "43779.3",
+        "episodeName": "Tin Man"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3321",
+        "historicalDate": "2366-10",
+        "starDate": "43807.4",
+        "episodeName": "Hollow Pursuits"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3322",
+        "historicalDate": "2366-11",
+        "starDate": "43872.2",
+        "episodeName": "Most Toys"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3323",
+        "historicalDate": "2366-12",
+        "starDate": "43917.4",
+        "episodeName": "Sarek"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3324",
+        "historicalDate": "2366-12",
+        "starDate": "43930.7",
+        "episodeName": "Menage a Troi"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3325",
+        "historicalDate": "2366-12",
+        "starDate": "43957.2",
+        "episodeName": "Transfigurations"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3326",
+        "historicalDate": "2366-12",
+        "starDate": "43989.1",
+        "episodeName": "Best of Both Worlds, Part I"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3401",
+        "historicalDate": "2367-01",
+        "starDate": "44001.4",
+        "episodeName": "Best of Both Worlds, Part II"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3404",
+        "historicalDate": "2367-01",
+        "starDate": "44012.3",
+        "episodeName": "Family"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3403",
+        "historicalDate": "2367-01",
+        "starDate": "44085.7",
+        "episodeName": "Brothers"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3402",
+        "historicalDate": "2367-02",
+        "starDate": "44143.7",
+        "episodeName": "Suddenly Human"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3405",
+        "historicalDate": "2367-02",
+        "starDate": "44161.2",
+        "episodeName": "Remember Me"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3406",
+        "historicalDate": "2367-03",
+        "starDate": "44215.2",
+        "episodeName": "Legacy"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3407",
+        "historicalDate": "2367-03",
+        "starDate": "44246.3",
+        "episodeName": "Reunion"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3408",
+        "historicalDate": "2367-04",
+        "starDate": "44286.5",
+        "episodeName": "Future Imperfect"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3409",
+        "historicalDate": "2367-04",
+        "starDate": "44307.3",
+        "episodeName": "Final Mission"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3410",
+        "historicalDate": "2367-05",
+        "starDate": "44356.9",
+        "episodeName": "Loss"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3411",
+        "historicalDate": "2367-05",
+        "starDate": "44390.1",
+        "episodeName": "Data's Day"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3412",
+        "historicalDate": "2367-06",
+        "starDate": "44429.6",
+        "episodeName": "Wounded"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3413",
+        "historicalDate": "2367-06",
+        "starDate": "44474.5",
+        "episodeName": "Devil's Due"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3414",
+        "historicalDate": "2367-07",
+        "starDate": "44502.7",
+        "episodeName": "Clues"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3415",
+        "historicalDate": "2367-07",
+        "episodeName": "First Contact"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3416",
+        "historicalDate": "2367-08",
+        "starDate": "44614.6",
+        "episodeName": "Galaxy's Child"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3417",
+        "historicalDate": "2367-08",
+        "starDate": "44631.2",
+        "episodeName": "Night Terrors"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3418",
+        "historicalDate": "2367-08",
+        "starDate": "44664.5",
+        "episodeName": "Identity Crisis"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3419",
+        "historicalDate": "2367-09",
+        "starDate": "44704.2",
+        "episodeName": "Nth Degree"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3420",
+        "historicalDate": "2367-09",
+        "starDate": "44741.9",
+        "episodeName": "Qpid"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3421",
+        "historicalDate": "2367-10",
+        "starDate": "44769.2",
+        "episodeName": "Drumhead"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3422",
+        "historicalDate": "2367-10",
+        "starDate": "44805.3",
+        "episodeName": "Half a Life"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3423",
+        "historicalDate": "2367-10",
+        "starDate": "44821.3",
+        "episodeName": "Host"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3424",
+        "historicalDate": "2367-11",
+        "starDate": "44885.5",
+        "episodeName": "Mind's Eye"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3425",
+        "historicalDate": "2367-12",
+        "starDate": "44932.3",
+        "episodeName": "In Theory"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3426",
+        "historicalDate": "2367-12",
+        "starDate": "44995.3",
+        "episodeName": "Redemption, Part I"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3501",
+        "historicalDate": "2368-01",
+        "starDate": "45020.4",
+        "episodeName": "Redemption, Part II"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3502",
+        "historicalDate": "2368-01",
+        "starDate": "45047.2",
+        "episodeName": "Darmok"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3503",
+        "historicalDate": "2368-01",
+        "starDate": "45076.3",
+        "episodeName": "Ensign Ro"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3504",
+        "historicalDate": "2368-02",
+        "starDate": "45122.3",
+        "episodeName": "Silicon Avatar"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3505",
+        "historicalDate": "2368-02",
+        "starDate": "45156.1",
+        "episodeName": "Disaster"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3506",
+        "historicalDate": "2368-03",
+        "starDate": "45208.2",
+        "episodeName": "Game"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3507",
+        "historicalDate": "2368-03",
+        "starDate": "45236.4",
+        "episodeName": "Unification, Part I"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3508",
+        "historicalDate": "2368-03",
+        "starDate": "45245.8",
+        "episodeName": "Unification, Part II"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3509",
+        "historicalDate": "2368-05",
+        "starDate": "45349.1",
+        "episodeName": "Matter of Time"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3510",
+        "historicalDate": "2368-05",
+        "starDate": "45376.3",
+        "episodeName": "New Ground"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3511",
+        "historicalDate": "2368-05",
+        "starDate": "45397.3",
+        "episodeName": "Hero Worship"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3512",
+        "historicalDate": "2368-06",
+        "starDate": "45429.3",
+        "episodeName": "Violations"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3513",
+        "historicalDate": "2368-06",
+        "starDate": "45470.1",
+        "episodeName": "Masterpiece Society"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3514",
+        "historicalDate": "2368-06",
+        "starDate": "45494.2",
+        "episodeName": "Conundrum"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3515",
+        "historicalDate": "2368-07",
+        "starDate": "45571.2",
+        "episodeName": "Power Play"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3516",
+        "historicalDate": "2368-08",
+        "starDate": "45587.3",
+        "episodeName": "Ethics"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3517",
+        "historicalDate": "2368-08",
+        "starDate": "45614.6",
+        "episodeName": "Outcast"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3518",
+        "historicalDate": "2368-08",
+        "starDate": "45652.1",
+        "episodeName": "Cause and Effect"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3519",
+        "historicalDate": "2368-09",
+        "starDate": "45703.9",
+        "episodeName": "First Duty"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3520",
+        "historicalDate": "2368-09",
+        "starDate": "45733.6",
+        "episodeName": "Cost of Living"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3521",
+        "historicalDate": "2368-10",
+        "starDate": "45761.3",
+        "episodeName": "Perfect Mate"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3522",
+        "historicalDate": "2368-10",
+        "starDate": "45832.1",
+        "episodeName": "Imaginary Friend"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3523",
+        "historicalDate": "2368-11",
+        "starDate": "45854.2",
+        "episodeName": "I, Borg"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3524",
+        "historicalDate": "2368-11",
+        "starDate": "45892.4",
+        "episodeName": "Next Phase"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3525",
+        "historicalDate": "2368-12",
+        "starDate": "45944.1",
+        "episodeName": "Inner Light"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3526",
+        "historicalDate": "2368-12",
+        "starDate": "45959.1",
+        "episodeName": "Time's Arrow, Part I"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3601",
+        "historicalDate": "2369-01",
+        "starDate": "46001.3",
+        "episodeName": "Time's Arrow, Part II"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3602",
+        "historicalDate": "2369-01",
+        "starDate": "46041.4",
+        "episodeName": "Realm of Fear"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3603",
+        "historicalDate": "2369-01",
+        "starDate": "46071.6",
+        "episodeName": "Man of the People"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3604",
+        "historicalDate": "2369-02",
+        "starDate": "46125.3",
+        "episodeName": "Relics"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3605",
+        "historicalDate": "2369-02",
+        "starDate": "46154.2",
+        "episodeName": "Schisms"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3606",
+        "historicalDate": "2369-03",
+        "starDate": "46192.3",
+        "episodeName": "True-Q"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3607",
+        "historicalDate": "2369-03",
+        "starDate": "46235.7",
+        "episodeName": "Rascals"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3608",
+        "historicalDate": "2369-04",
+        "starDate": "46271.5",
+        "episodeName": "Fistful of Datas"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3609",
+        "historicalDate": "2369-04",
+        "starDate": "46307.2",
+        "episodeName": "Quality of Life"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3610",
+        "historicalDate": "2369-05",
+        "starDate": "46357.4",
+        "episodeName": "Chain of Command, Part I"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3611",
+        "historicalDate": "2369-05",
+        "starDate": "46360.8",
+        "episodeName": "Chain of Command, Part II"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4101",
+        "historicalDate": "2369-05",
+        "starDate": "46379.1",
+        "episodeName": "Emissary, Part I"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4102",
+        "historicalDate": "2369-05",
+        "starDate": "46380",
+        "episodeName": "Emissary, Part II"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4103",
+        "historicalDate": "2369",
+        "episodeName": "Past Prologue"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4104",
+        "historicalDate": "2369-06",
+        "starDate": "46421.5",
+        "episodeName": "Man Alone"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3612",
+        "historicalDate": "2369-03",
+        "starDate": "46242.1",
+        "episodeName": "Ship in a Bottle"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4105",
+        "historicalDate": "2369-06",
+        "starDate": "46423.7",
+        "episodeName": "Babel"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3613",
+        "historicalDate": "2369-06",
+        "starDate": "46461.3",
+        "episodeName": "Aquiel"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4106",
+        "historicalDate": "2369",
+        "episodeName": "Captive Pursuit"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3614",
+        "historicalDate": "2369-07",
+        "starDate": "46519.1",
+        "episodeName": "Face of the Enemy"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4107",
+        "historicalDate": "2369-07",
+        "starDate": "46531.2",
+        "episodeName": "Q-Less"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3615",
+        "historicalDate": "2369-07",
+        "episodeName": "Tapestry"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4108",
+        "historicalDate": "2369-11",
+        "starDate": "46910.1",
+        "episodeName": "Dax"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3616",
+        "historicalDate": "2369-07",
+        "starDate": "46578.4",
+        "episodeName": "Birthright, Part I"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4109",
+        "historicalDate": "2369",
+        "episodeName": "Passenger"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3617",
+        "historicalDate": "2369-10",
+        "starDate": "46759.2",
+        "episodeName": "Birthright, Part II"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4110",
+        "historicalDate": "2369",
+        "episodeName": "Move Along Home"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4111",
+        "historicalDate": "2369",
+        "episodeName": "Nagus"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3618",
+        "historicalDate": "2369-09",
+        "starDate": "46682.4",
+        "episodeName": "Starship Mine"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3619",
+        "historicalDate": "2369-09",
+        "starDate": "46693.1",
+        "episodeName": "Lessons"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4112",
+        "historicalDate": "2369-09",
+        "episodeName": "Vortex"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3620",
+        "historicalDate": "2369-09",
+        "starDate": "46731.5",
+        "episodeName": "Chase"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4113",
+        "historicalDate": "2369",
+        "episodeName": "Battle Lines"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3621",
+        "historicalDate": "2369-10",
+        "starDate": "46778.1",
+        "episodeName": "Frame of Mind"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4114",
+        "historicalDate": "2369-09",
+        "starDate": "46729.1",
+        "episodeName": "Storyteller"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3622",
+        "historicalDate": "2369-10",
+        "starDate": "46830.1",
+        "episodeName": "Suspicions"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4115",
+        "historicalDate": "2369-11",
+        "starDate": "46844.3",
+        "episodeName": "Progress"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3623",
+        "historicalDate": "2369-11",
+        "starDate": "46852.2",
+        "episodeName": "Rightful Heir"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4116",
+        "historicalDate": "2369-11",
+        "starDate": "46853.2",
+        "episodeName": "If Wishes Were Horses"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3624",
+        "historicalDate": "2369-11",
+        "starDate": "46915.2",
+        "episodeName": "Second Chances"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4117",
+        "historicalDate": "2369-12",
+        "starDate": "46925.1",
+        "episodeName": "Forsaken"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4118",
+        "historicalDate": "2369-12",
+        "starDate": "46922.3",
+        "episodeName": "Dramatis Personae"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3625",
+        "historicalDate": "2369-12",
+        "starDate": "46944.2",
+        "episodeName": "Timescape"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4119",
+        "historicalDate": "2369-12",
+        "episodeName": "Duet"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3626",
+        "historicalDate": "2369-12",
+        "starDate": "46982.1",
+        "episodeName": "Descent, Part I"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4120",
+        "historicalDate": "2369-12",
+        "episodeName": "In the Hands of the Prophets"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3701",
+        "historicalDate": "2370-01",
+        "starDate": "47025.4",
+        "episodeName": "Descent, Part II"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3702",
+        "historicalDate": "2370",
+        "episodeName": "Liaisons"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4201",
+        "historicalDate": "2370",
+        "episodeName": "Homecoming"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3703",
+        "historicalDate": "2370-03",
+        "starDate": "47215.5",
+        "episodeName": "Interface"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4202",
+        "historicalDate": "2370",
+        "episodeName": "Circle"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3704",
+        "historicalDate": "2370-02",
+        "starDate": "47135.2",
+        "episodeName": "Gambit, Part I"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4203",
+        "historicalDate": "2370-02",
+        "episodeName": "Siege"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3705",
+        "historicalDate": "2370-02",
+        "starDate": "47160.1",
+        "episodeName": "Gambit, Part II"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4204",
+        "historicalDate": "2370-03",
+        "starDate": "47182.1",
+        "episodeName": "Invasive Procedures"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3706",
+        "historicalDate": "2370-03",
+        "starDate": "47225.7",
+        "episodeName": "Phantasms"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4205",
+        "historicalDate": "2370-03",
+        "starDate": "47177.2",
+        "episodeName": "Cardassians"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3707",
+        "historicalDate": "2370-04",
+        "starDate": "47254.1",
+        "episodeName": "Dark Page"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4206",
+        "historicalDate": "2370-03",
+        "starDate": "47229.1",
+        "episodeName": "Melora"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3708",
+        "historicalDate": "2370-04",
+        "starDate": "47304.2",
+        "episodeName": "Attached"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4207",
+        "historicalDate": "2370-04",
+        "episodeName": "Rules of Acquisition"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3709",
+        "historicalDate": "2370-04",
+        "starDate": "47310.2",
+        "episodeName": "Force of Nature"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4208",
+        "historicalDate": "2370-04",
+        "starDate": "47282.5",
+        "episodeName": "Necessary Evil"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3710",
+        "historicalDate": "2370-05",
+        "starDate": "47410.2",
+        "episodeName": "Inheritance"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4209",
+        "historicalDate": "2370-04",
+        "starDate": "47329.4",
+        "episodeName": "Second Sight"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3711",
+        "historicalDate": "2370-05",
+        "starDate": "47391.2",
+        "episodeName": "Parallels"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4210",
+        "historicalDate": "2370-05",
+        "starDate": "47391.2",
+        "episodeName": "Sanctuary"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4211",
+        "historicalDate": "2370",
+        "episodeName": "Rivals"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3712",
+        "historicalDate": "2370-06",
+        "starDate": "47457.1",
+        "episodeName": "Pegasus"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4212",
+        "historicalDate": "2370-05",
+        "starDate": "47391.7",
+        "episodeName": "Alternate"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3713",
+        "historicalDate": "2370-06",
+        "starDate": "47423.9",
+        "episodeName": "Homeward"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3714",
+        "historicalDate": "2370-06",
+        "starDate": "47424",
+        "episodeName": "Sub Rosa"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4213",
+        "historicalDate": "2370",
+        "episodeName": "Armageddon Game"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3715",
+        "historicalDate": "2370-07",
+        "starDate": "47566.7",
+        "episodeName": "Lower Decks"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4214",
+        "historicalDate": "2370-07",
+        "starDate": "47581.2",
+        "episodeName": "Whispers"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3716",
+        "historicalDate": "2370-08",
+        "starDate": "47611.2",
+        "episodeName": "Thine Own Self"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4215",
+        "historicalDate": "2370-07",
+        "starDate": "47573.1",
+        "episodeName": "Paradise"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3717",
+        "historicalDate": "2370-08",
+        "starDate": "47615.2",
+        "episodeName": "Masks"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4216",
+        "historicalDate": "2370-08",
+        "starDate": "47603.3",
+        "episodeName": "Shadowplay"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3718",
+        "historicalDate": "2370-08",
+        "starDate": "47622.1",
+        "episodeName": "Eye of the Beholder"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4217",
+        "historicalDate": "2370-08",
+        "episodeName": "Playing God"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3719",
+        "historicalDate": "2370-08",
+        "starDate": "47653.2",
+        "episodeName": "Genesis"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4218",
+        "historicalDate": "2370",
+        "episodeName": "Profit and Loss"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3720",
+        "historicalDate": "2370-10",
+        "starDate": "47751.2",
+        "episodeName": "Journey's End"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4219",
+        "historicalDate": "2370-10",
+        "episodeName": "Blood Oath"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3721",
+        "historicalDate": "2370-10",
+        "starDate": "47779.4",
+        "episodeName": "Firstborn"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4220",
+        "historicalDate": "2370-10",
+        "episodeName": "Maquis, Part I"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3722",
+        "historicalDate": "2370-10",
+        "starDate": "47829.1",
+        "episodeName": "Bloodlines"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4221",
+        "historicalDate": "2370",
+        "episodeName": "Maquis, Part II"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3723",
+        "historicalDate": "2370-11",
+        "starDate": "47869.2",
+        "episodeName": "Emergence"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4222",
+        "historicalDate": "2370",
+        "episodeName": "Wire"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3724",
+        "historicalDate": "2370-12",
+        "starDate": "47941.7",
+        "episodeName": "Preemptive Strike"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4223",
+        "historicalDate": "2370-11",
+        "starDate": "47891.1",
+        "episodeName": "Crossover"
+      },
+      {
+        "series": "TNG",
+        "episodeNumber": "3725",
+        "historicalDate": "2370-12",
+        "starDate": "47988",
+        "episodeName": "All Good Things..."
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4224",
+        "historicalDate": "2370-12",
+        "episodeName": "Collaborator"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4225",
+        "historicalDate": "2370-12",
+        "starDate": "47944.2",
+        "episodeName": "Tribunal"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4226",
+        "historicalDate": "2370-12",
+        "episodeName": "Jem'Hadar"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4301",
+        "historicalDate": "2371-03",
+        "starDate": "48212.4",
+        "episodeName": "Search, Part I"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4302",
+        "historicalDate": "2371-03",
+        "starDate": "48213",
+        "episodeName": "Search, Part II"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4303",
+        "historicalDate": "2371",
+        "episodeName": "House of Quark"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4304",
+        "historicalDate": "2371",
+        "episodeName": "Equilibrium"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4306",
+        "historicalDate": "2371",
+        "episodeName": "Abandoned"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4305",
+        "historicalDate": "2371",
+        "episodeName": "Second Skin"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4307",
+        "historicalDate": "2371",
+        "episodeName": "Civil Defense"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4308",
+        "historicalDate": "2371-06",
+        "starDate": "48423.2",
+        "episodeName": "Meridian"
+      },
+      {
+        "series": "ST7",
+        "episodeNumber": "M-07",
+        "historicalDate": "2371-08",
+        "starDate": "48632.4",
+        "episodeName": "Star Trek: Generations"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4309",
+        "historicalDate": "2371-06",
+        "starDate": "48467.3",
+        "episodeName": "Defiant"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4310",
+        "historicalDate": "2371-06",
+        "episodeName": "Fascination"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4311",
+        "historicalDate": "2371-06",
+        "starDate": "48481.2",
+        "episodeName": "Past Tense, Part I"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4312",
+        "historicalDate": "2371-06",
+        "starDate": "48482",
+        "episodeName": "Past Tense, Part II"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5101",
+        "historicalDate": "2371-04",
+        "starDate": "48315.6",
+        "episodeName": "Caretaker, Part I"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5102",
+        "historicalDate": "2371-04",
+        "starDate": "48316",
+        "episodeName": "Caretaker, Part II"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5103",
+        "historicalDate": "2371-06",
+        "starDate": "48439.7",
+        "episodeName": "Parallax"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5104",
+        "historicalDate": "2371-06",
+        "episodeName": "Time and Again"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4313",
+        "historicalDate": "2371-06",
+        "starDate": "48498.4",
+        "episodeName": "Life Support"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5105",
+        "historicalDate": "2371-07",
+        "starDate": "48532.4",
+        "episodeName": "Phage"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4314",
+        "historicalDate": "2371-07",
+        "starDate": "48521.5",
+        "episodeName": "Heart of Stone"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5106",
+        "historicalDate": "2371-07",
+        "starDate": "48546.2",
+        "episodeName": "Cloud"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4315",
+        "historicalDate": "2371-07",
+        "starDate": "48543.2",
+        "episodeName": "Destiny"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5107",
+        "historicalDate": "2371-07",
+        "starDate": "48579.4",
+        "episodeName": "Eye of the Needle"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4316",
+        "historicalDate": "2371",
+        "episodeName": "Prophet Motive"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5108",
+        "historicalDate": "2371",
+        "episodeName": "Ex Post Facto"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4317",
+        "historicalDate": "2371",
+        "episodeName": "Visionary"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5109",
+        "historicalDate": "2371-08",
+        "starDate": "48623.5",
+        "episodeName": "Emanations"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5110",
+        "historicalDate": "2371-08",
+        "starDate": "48642.5",
+        "episodeName": "Prime Factors"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5111",
+        "historicalDate": "2371-08",
+        "starDate": "48658.2",
+        "episodeName": "State of Flux"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4318",
+        "historicalDate": "2371",
+        "episodeName": "Distant Voices"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4319",
+        "historicalDate": "2371",
+        "episodeName": "Through the Looking Glass"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5112",
+        "historicalDate": "2371-09",
+        "starDate": "48693.2",
+        "episodeName": "Heroes and Demons"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4320",
+        "historicalDate": "2371-09",
+        "episodeName": "Improbable Cause"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5113",
+        "historicalDate": "2371-09",
+        "starDate": "48734.2",
+        "episodeName": "Cathexis"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4321",
+        "historicalDate": "2371",
+        "episodeName": "Die is Cast"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5114",
+        "historicalDate": "2371-10",
+        "starDate": "48784.2",
+        "episodeName": "Faces"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4322",
+        "historicalDate": "2371-10",
+        "episodeName": "Explorers"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5115",
+        "historicalDate": "2371-10",
+        "starDate": "48832.1",
+        "episodeName": "Jetrel"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4323",
+        "historicalDate": "2371",
+        "episodeName": "Family Business"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5116",
+        "historicalDate": "2371-11",
+        "starDate": "48846.5",
+        "episodeName": "Learning Curve"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4324",
+        "historicalDate": "2371",
+        "episodeName": "Shakaar"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4325",
+        "historicalDate": "2371",
+        "episodeName": "Facets"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4326",
+        "historicalDate": "2371-12",
+        "starDate": "48959.1",
+        "episodeName": "Adversary"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5204",
+        "historicalDate": "2371-12",
+        "starDate": "48975.1",
+        "episodeName": "37's"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5205",
+        "historicalDate": "2372-01",
+        "starDate": "49005.3",
+        "episodeName": "Initiations"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5201",
+        "historicalDate": "2371-11",
+        "starDate": "48892.1",
+        "episodeName": "Projections"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5202",
+        "historicalDate": "2371-12",
+        "starDate": "48921.3",
+        "episodeName": "Elogium"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5206",
+        "historicalDate": "2372-01",
+        "starDate": "49011",
+        "episodeName": "Non Sequitur"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4401",
+        "historicalDate": "2372-01",
+        "starDate": "49011.4",
+        "episodeName": "Way of the Warrior"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5203",
+        "historicalDate": "2372-01",
+        "episodeName": "Twisted"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4402",
+        "historicalDate": "2372-01",
+        "episodeName": "Visitor"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5207",
+        "historicalDate": "2372-01",
+        "episodeName": "Parturition"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4403",
+        "historicalDate": "2372-01",
+        "starDate": "49066.5",
+        "episodeName": "Hippocratic Oath"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4404",
+        "historicalDate": "2372-02",
+        "episodeName": "Indiscretion"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4405",
+        "historicalDate": "2372-03",
+        "starDate": "49195.5",
+        "episodeName": "Rejoined"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5208",
+        "historicalDate": "2372",
+        "episodeName": "Persistence of Vision"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4406",
+        "historicalDate": "2372",
+        "episodeName": "Little Green Men"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5209",
+        "historicalDate": "2372",
+        "episodeName": "Tattoo"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4407",
+        "historicalDate": "2372-04",
+        "starDate": "49263.5",
+        "episodeName": "Starship Down"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5210",
+        "historicalDate": "2372",
+        "episodeName": "Cold Fire"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4408",
+        "historicalDate": "2372",
+        "episodeName": "Sword of Kahless"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5211",
+        "historicalDate": "2372-03",
+        "starDate": "49208.5",
+        "episodeName": "Maneuvers"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5212",
+        "historicalDate": "2372-03",
+        "episodeName": "Resistance"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4409",
+        "historicalDate": "2372-03",
+        "episodeName": "Our Man Bashir"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4410",
+        "historicalDate": "2372-03",
+        "starDate": "49170.6",
+        "episodeName": "Homefront"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4411",
+        "historicalDate": "2372-06",
+        "starDate": "49419",
+        "episodeName": "Paradise Lost"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5213",
+        "historicalDate": "2372",
+        "episodeName": "Prototype"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5215",
+        "historicalDate": "2372-05",
+        "starDate": "49337.4",
+        "episodeName": "Alliances"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4412",
+        "historicalDate": "2372-05",
+        "episodeName": "Crossfire"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5216",
+        "historicalDate": "2372-05",
+        "starDate": "49373.4",
+        "episodeName": "Threshold"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4413",
+        "historicalDate": "2372",
+        "episodeName": "Return to Grace"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5217",
+        "historicalDate": "2372",
+        "episodeName": "Meld"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4414",
+        "historicalDate": "2372-07",
+        "starDate": "49556.2",
+        "episodeName": "Sons of Mogh"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5218",
+        "historicalDate": "2372-06",
+        "starDate": "49447",
+        "episodeName": "Dreadnought"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5214",
+        "historicalDate": "2372-04",
+        "starDate": "49301.2",
+        "episodeName": "Death Wish"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4415",
+        "historicalDate": "2372",
+        "episodeName": "Bar Association"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4416",
+        "historicalDate": "2372",
+        "episodeName": "Accession"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5220",
+        "historicalDate": "2372-07",
+        "starDate": "49504.3",
+        "episodeName": "Lifesigns"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5219",
+        "historicalDate": "2372-06",
+        "starDate": "49485.2",
+        "episodeName": "Investigations"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5221",
+        "historicalDate": "2372-07",
+        "starDate": "49548.7",
+        "episodeName": "Deadlock"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4417",
+        "historicalDate": "2372-07",
+        "starDate": "49665.3",
+        "episodeName": "Rules of Engagement"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5222",
+        "historicalDate": "2372-07",
+        "episodeName": "Innocence"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4418",
+        "historicalDate": "2372-07",
+        "episodeName": "Hard Time"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4419",
+        "historicalDate": "2372-07",
+        "episodeName": "Shattered Mirror"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4420",
+        "historicalDate": "2372-07",
+        "episodeName": "Muse"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5223",
+        "historicalDate": "2372-07",
+        "episodeName": "Thaw"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4421",
+        "historicalDate": "2372-07",
+        "episodeName": "For the Cause"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5224",
+        "historicalDate": "2372-07",
+        "starDate": "49655.2",
+        "episodeName": "Tuvix"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4423",
+        "historicalDate": "2372",
+        "episodeName": "Quickening"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5225",
+        "historicalDate": "2372-08",
+        "starDate": "49690.1",
+        "episodeName": "Resolutions"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4422",
+        "historicalDate": "2372-11",
+        "starDate": "49904.2",
+        "episodeName": "To the Death"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4424",
+        "historicalDate": "2372",
+        "episodeName": "Body Parts"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4425",
+        "historicalDate": "2372-12",
+        "starDate": "49962.4",
+        "episodeName": "Broken Link"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5226",
+        "historicalDate": "2373-01",
+        "episodeName": "Basics, Part I"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4501",
+        "historicalDate": "2373-01",
+        "episodeName": "Apocalypse Rising"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5301",
+        "historicalDate": "2373-01",
+        "starDate": "50032.7",
+        "episodeName": "Basics, Part II"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4502",
+        "historicalDate": "2373-01",
+        "starDate": "50049.3",
+        "episodeName": "Ship"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5307",
+        "historicalDate": "2373-01",
+        "starDate": "50063.2",
+        "episodeName": "Sacred Ground"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4503",
+        "historicalDate": "2373-01",
+        "episodeName": "Looking for Par'Mach in All the Wrong Places"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5305",
+        "historicalDate": "2373-01",
+        "starDate": "50074.3",
+        "episodeName": "False Profits"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4504",
+        "historicalDate": "2373-02",
+        "episodeName": "Nor the Battle to the Strong"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5302",
+        "historicalDate": "2373-02",
+        "starDate": "50126.4",
+        "episodeName": "Flashback"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4505",
+        "historicalDate": "2373-02",
+        "episodeName": "Assignment"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5303",
+        "historicalDate": "2373-02",
+        "starDate": "50156.2",
+        "episodeName": "Chute"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4506",
+        "historicalDate": "2373",
+        "episodeName": "Trials and Tribble-ations"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5306",
+        "historicalDate": "2373-03",
+        "starDate": "50203.1",
+        "episodeName": "Remember"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4507",
+        "historicalDate": "2373-03",
+        "episodeName": "Let He Who is Without Sin"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5304",
+        "historicalDate": "2373-04",
+        "starDate": "50252.3",
+        "episodeName": "Swarm"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4508",
+        "historicalDate": "2373-04",
+        "episodeName": "Things Past"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5308",
+        "historicalDate": "2373-04",
+        "starDate": "50312.5",
+        "episodeName": "Future's End, Part I"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4509",
+        "historicalDate": "2373-04",
+        "episodeName": "Ascent"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5309",
+        "historicalDate": "2373-04",
+        "starDate": "50312.5",
+        "episodeName": "Future's End, Part II"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4510",
+        "historicalDate": "2373",
+        "episodeName": "Rapture"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5310",
+        "historicalDate": "2373-05",
+        "starDate": "50348.1",
+        "episodeName": "Warlord"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5311",
+        "historicalDate": "2373-05",
+        "starDate": "50384.2",
+        "episodeName": "Q and the Grey"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4511",
+        "historicalDate": "2373-05",
+        "starDate": "50406.2",
+        "episodeName": "Darkness and the Light"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5312",
+        "historicalDate": "2373-06",
+        "starDate": "50425.1",
+        "episodeName": "Macrocosm"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4512",
+        "historicalDate": "2373-06",
+        "episodeName": "Begotten"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5313",
+        "historicalDate": "2373-06",
+        "episodeName": "Fair Trade"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5314",
+        "historicalDate": "2373-06",
+        "starDate": "50460.3",
+        "episodeName": "Alter Ego"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4513",
+        "historicalDate": "2373-06",
+        "starDate": "50485.2",
+        "episodeName": "For the Uniform"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5315",
+        "historicalDate": "2373-07",
+        "starDate": "50518.6",
+        "episodeName": "Coda"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4514",
+        "historicalDate": "2373-07",
+        "episodeName": "In Purgatory's Shadow"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5316",
+        "historicalDate": "2373-07",
+        "starDate": "50537.2",
+        "episodeName": "Blood Fever"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4515",
+        "historicalDate": "2373-07",
+        "starDate": "50564.2",
+        "episodeName": "By Inferno's Light"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5317",
+        "historicalDate": "2373-08",
+        "starDate": "50614.2",
+        "episodeName": "Unity"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4516",
+        "historicalDate": "2373",
+        "episodeName": "Doctor Bashir, I Presume"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4517",
+        "historicalDate": "2373",
+        "episodeName": "Simple Investigation"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4518",
+        "historicalDate": "2373",
+        "episodeName": "Business as Usual"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5318",
+        "historicalDate": "2373-09",
+        "starDate": "50693.2",
+        "episodeName": "Darkling"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4519",
+        "historicalDate": "2373-09",
+        "starDate": "50712.5",
+        "episodeName": "Ties of Blood and Water"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5319",
+        "historicalDate": "2373-09",
+        "episodeName": "Rise"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4520",
+        "historicalDate": "2373-09",
+        "episodeName": "Ferengi Love Songs"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5320",
+        "historicalDate": "2373-09",
+        "starDate": "50732.4",
+        "episodeName": "Favorite Son"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4521",
+        "historicalDate": "2373",
+        "episodeName": "Soldiers of the Empire"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5321",
+        "historicalDate": "2373",
+        "episodeName": "Before and After"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4522",
+        "historicalDate": "2373-10",
+        "starDate": "50814.2",
+        "episodeName": "Children of Time"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5322",
+        "historicalDate": "2373-11",
+        "starDate": "50836.2",
+        "episodeName": "Real Life"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4523",
+        "historicalDate": "2373-11",
+        "episodeName": "Blaze of Glory"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5323",
+        "historicalDate": "2373-11",
+        "episodeName": "Distant Origin"
+      },
+      {
+        "series": "ST8",
+        "episodeNumber": "M-08",
+        "historicalDate": "2373-11",
+        "starDate": "50893.5",
+        "episodeName": "Star Trek: First Contact"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4524",
+        "historicalDate": "2373-11",
+        "episodeName": "Empok Nor"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5324",
+        "historicalDate": "2373-11",
+        "starDate": "50912.4",
+        "episodeName": "Displaced"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4525",
+        "historicalDate": "2373-12",
+        "starDate": "50929.4",
+        "episodeName": "In the Cards"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5325",
+        "historicalDate": "2373-12",
+        "starDate": "50953.4",
+        "episodeName": "Worst Case Scenario"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4526",
+        "historicalDate": "2373-12",
+        "starDate": "50975.2",
+        "episodeName": "Call to Arms"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5326",
+        "historicalDate": "2373-12",
+        "starDate": "50984.3",
+        "episodeName": "Scorpion, Part I"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5401",
+        "historicalDate": "2374-01",
+        "starDate": "51003.7",
+        "episodeName": "Scorpion, Part II"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5402",
+        "historicalDate": "2374-01",
+        "episodeName": "Gift"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5403",
+        "historicalDate": "2374-01",
+        "episodeName": "Day of Honor"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5404",
+        "historicalDate": "2374-01",
+        "starDate": "51082.4",
+        "episodeName": "Nemesis"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4601",
+        "historicalDate": "2374",
+        "episodeName": "Time to Stand"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5405",
+        "historicalDate": "2374-03",
+        "starDate": "51186.2",
+        "episodeName": "Revulsion"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4602",
+        "historicalDate": "2374-02",
+        "starDate": "51096.2",
+        "episodeName": "Rocks and Shoals"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5406",
+        "historicalDate": "2374-03",
+        "episodeName": "Raven"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4603",
+        "historicalDate": "2374-02",
+        "episodeName": "Sons and Daughters"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4604",
+        "historicalDate": "2374-02",
+        "starDate": "51145.3",
+        "episodeName": "Behind the Lines"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4605",
+        "historicalDate": "2374",
+        "episodeName": "Favor the Bold"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5407",
+        "historicalDate": "2374-03",
+        "starDate": "51244.3",
+        "episodeName": "Scientific Method"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4606",
+        "historicalDate": "2374",
+        "episodeName": "Sacrifice of Angels"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5408",
+        "historicalDate": "2374-04",
+        "starDate": "51268.4",
+        "episodeName": "Year of Hell, Part I"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4607",
+        "historicalDate": "2374-04",
+        "starDate": "51247.5",
+        "episodeName": "You Are Cordially Invited"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5409",
+        "historicalDate": "2374-06",
+        "starDate": "51425.4",
+        "episodeName": "Year of Hell, Part II"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4608",
+        "historicalDate": "2374",
+        "episodeName": "Resurrection"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5410",
+        "historicalDate": "2374-05",
+        "starDate": "51367.2",
+        "episodeName": "Random Thoughts"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4609",
+        "historicalDate": "2374-05",
+        "episodeName": "Statistical Probabilities"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5411",
+        "historicalDate": "2374-05",
+        "starDate": "51386.4",
+        "episodeName": "Concerning Flight"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5412",
+        "historicalDate": "2374-06",
+        "starDate": "51449.2",
+        "episodeName": "Mortal Coil"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4610",
+        "historicalDate": "2374",
+        "episodeName": "Magnificent Ferengi"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4611",
+        "historicalDate": "2374-05",
+        "starDate": "51408.6",
+        "episodeName": "Waltz"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5413",
+        "historicalDate": "2374-06",
+        "starDate": "51471.3",
+        "episodeName": "Waking Moments"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5414",
+        "historicalDate": "2374",
+        "episodeName": "Message in a Bottle"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4612",
+        "historicalDate": "2374",
+        "episodeName": "Who Mourns for Morn?"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4613",
+        "historicalDate": "2374",
+        "episodeName": "Far Beyond the Stars"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5415",
+        "historicalDate": "2374-07",
+        "starDate": "51501.4",
+        "episodeName": "Hunters"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4614",
+        "historicalDate": "2374-06",
+        "starDate": "51474.2",
+        "episodeName": "One Little Ship"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5416",
+        "historicalDate": "2374-08",
+        "starDate": "51652.3",
+        "episodeName": "Prey"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4615",
+        "historicalDate": "2374",
+        "episodeName": "Honor Among Thieves"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5417",
+        "historicalDate": "2374-09",
+        "starDate": "51679.4",
+        "episodeName": "Retrospect"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4616",
+        "historicalDate": "2374-08",
+        "starDate": "51597.2",
+        "episodeName": "Change of Heart"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5418",
+        "historicalDate": "2374-09",
+        "episodeName": "Killing Game, Part I"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5419",
+        "historicalDate": "2374-09",
+        "starDate": "51715.2",
+        "episodeName": "Killing Game, Part II"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4617",
+        "historicalDate": "2374",
+        "episodeName": "Wrongs Darker Then Death or Night"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4618",
+        "historicalDate": "2374",
+        "episodeName": "Inquisition"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5420",
+        "historicalDate": "2374-10",
+        "starDate": "51775.2",
+        "episodeName": "Vis a Vis"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4619",
+        "historicalDate": "2374-09",
+        "starDate": "51721.3",
+        "episodeName": "In the Pale Moonlight"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5421",
+        "historicalDate": "2374-10",
+        "starDate": "51793.4",
+        "episodeName": "Omega Directive"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4620",
+        "historicalDate": "2374-10",
+        "episodeName": "His Way"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5422",
+        "historicalDate": "2374-10",
+        "starDate": "51813.4",
+        "episodeName": "Unforgettable"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4621",
+        "historicalDate": "2374-10",
+        "episodeName": "Reckoning"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5423",
+        "historicalDate": "2374-10",
+        "episodeName": "Living Witness"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4622",
+        "historicalDate": "2374-10",
+        "starDate": "51825.4",
+        "episodeName": "Valiant"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5424",
+        "historicalDate": "2374",
+        "episodeName": "Demon"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4623",
+        "historicalDate": "2374",
+        "episodeName": "Profit and Lace"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5425",
+        "historicalDate": "2374-12",
+        "starDate": "51929.3",
+        "episodeName": "One"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4624",
+        "historicalDate": "2374-12",
+        "episodeName": "Time's Orphan"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5426",
+        "historicalDate": "2374-12",
+        "starDate": "51978.2",
+        "episodeName": "Hope and Fear"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4625",
+        "historicalDate": "2374-12",
+        "starDate": "51948.3",
+        "episodeName": "Sound of Her Voice"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4626",
+        "historicalDate": "2374-12",
+        "episodeName": "Tears of the Prophets"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4701",
+        "historicalDate": "2375",
+        "episodeName": "Image in the Sand"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4702",
+        "historicalDate": "2375-02",
+        "starDate": "52152.6",
+        "episodeName": "Shadows and Symbols"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4703",
+        "historicalDate": "2375",
+        "episodeName": "Afterimage"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5501",
+        "historicalDate": "2375-01",
+        "starDate": "52081.2",
+        "episodeName": "Night"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4704",
+        "historicalDate": "2375",
+        "episodeName": "Take Me Out to the Holosuite"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5502",
+        "historicalDate": "2375",
+        "episodeName": "Drone"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4705",
+        "historicalDate": "2375",
+        "episodeName": "Chrysalis"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5503",
+        "historicalDate": "2375",
+        "episodeName": "Extreme Risk"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4706",
+        "historicalDate": "2375",
+        "episodeName": "Treachery, Faith, and the Great River"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5504",
+        "historicalDate": "2375-02",
+        "starDate": "52136.4",
+        "episodeName": "In the Flesh"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4707",
+        "historicalDate": "2375-02",
+        "episodeName": "Once More Unto the Breach"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5505",
+        "historicalDate": "2375-02",
+        "episodeName": "Once Upon a Time"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4708",
+        "historicalDate": "2375-02",
+        "episodeName": "Siege of AR-558"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5506",
+        "historicalDate": "2375-02",
+        "starDate": "52143.6",
+        "episodeName": "Timeless"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4709",
+        "historicalDate": "2375",
+        "episodeName": "Covenant"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5507",
+        "historicalDate": "2375-03",
+        "starDate": "52188.7",
+        "episodeName": "Infinite Regress"
+      },
+      {
+        "series": "ST9",
+        "episodeNumber": "M-09",
+        "historicalDate": "2375",
+        "episodeName": "Star Trek: Insurrection"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5508",
+        "historicalDate": "2375-03",
+        "episodeName": "Nothing Human"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5509",
+        "historicalDate": "2375-03",
+        "starDate": "52179.4",
+        "episodeName": "Thirty Days"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5510",
+        "historicalDate": "2375",
+        "episodeName": "Counterpoint"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4710",
+        "historicalDate": "2375",
+        "episodeName": "It's Only a Paper Moon"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4711",
+        "historicalDate": "2375",
+        "episodeName": "Prodigal Daughter"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5511",
+        "historicalDate": "2375",
+        "episodeName": "Latent Image"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5512",
+        "historicalDate": "2375",
+        "episodeName": "Bride of Chaotica!"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4712",
+        "historicalDate": "2375",
+        "episodeName": "Emperor's New Cloak"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5513",
+        "historicalDate": "2375-06",
+        "starDate": "52438.9",
+        "episodeName": "Gravity"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4713",
+        "historicalDate": "2375",
+        "episodeName": "Field of Fire"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5514",
+        "historicalDate": "2375-07",
+        "starDate": "52542.3",
+        "episodeName": "Bliss"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4714",
+        "historicalDate": "2375",
+        "episodeName": "Chimera"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5515",
+        "historicalDate": "2375-08",
+        "starDate": "52619.2",
+        "episodeName": "Dark Frontier, Part I"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5516",
+        "historicalDate": "2375-08",
+        "starDate": "52619.2",
+        "episodeName": "Dark Frontier, Part II"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4715",
+        "historicalDate": "2375-08",
+        "episodeName": "Badda-Bing, Badda-Bang"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5517",
+        "historicalDate": "2375-08",
+        "episodeName": "Disease"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4716",
+        "historicalDate": "2375-08",
+        "episodeName": "Inter Arma Enim Silent Leges"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5518",
+        "historicalDate": "2375-08",
+        "starDate": "52586.3",
+        "episodeName": "Course: Oblivion"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5519",
+        "historicalDate": "2375-08",
+        "episodeName": "Fight"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5520",
+        "historicalDate": "2375-08",
+        "episodeName": "Think Tank"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4717",
+        "historicalDate": "2375-07",
+        "starDate": "52576.2",
+        "episodeName": "Penumbra"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4718",
+        "historicalDate": "2375-08",
+        "episodeName": "'Til Death Us Do Part"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4719",
+        "historicalDate": "2375-08",
+        "episodeName": "Strange Bedfellows"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5521",
+        "historicalDate": "2375-08",
+        "episodeName": "Juggernaut"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4720",
+        "historicalDate": "2375-08",
+        "episodeName": "Changing Face of Evil"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5522",
+        "historicalDate": "2375-08",
+        "starDate": "52647",
+        "episodeName": "Someone to Watch Over Me"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4721",
+        "historicalDate": "2375",
+        "episodeName": "When It Rains..."
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5523",
+        "historicalDate": "2375-04",
+        "starDate": "52306.8",
+        "episodeName": "0.499305555555556"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4722",
+        "historicalDate": "2375",
+        "episodeName": "Tacking into the Wind"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5524",
+        "historicalDate": "2375-11",
+        "starDate": "52861.6",
+        "episodeName": "Relativity"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4723",
+        "historicalDate": "2375-08",
+        "starDate": "52645.7",
+        "episodeName": "Extreme Measures"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5525",
+        "historicalDate": "2375",
+        "episodeName": "Warhead"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4724",
+        "historicalDate": "2375",
+        "episodeName": "Dogs of War"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5526",
+        "historicalDate": "2375",
+        "episodeName": "Equinox, Part I"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4725",
+        "historicalDate": "2375",
+        "episodeName": "What You Leave Behind, Part I"
+      },
+      {
+        "series": "DS9",
+        "episodeNumber": "4726",
+        "historicalDate": "2375",
+        "episodeName": "What You Leave Behind, Part II"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5601",
+        "historicalDate": "2376-01",
+        "episodeName": "Equinox, Part II"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5602",
+        "historicalDate": "2376-01",
+        "starDate": "53049.2",
+        "episodeName": "Suvival Instinct"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5603",
+        "historicalDate": "2376",
+        "episodeName": "Barge of the Dead"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5604",
+        "historicalDate": "2376",
+        "episodeName": "Tinker, Tenor, Doctor, Spy"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5605",
+        "historicalDate": "2376",
+        "episodeName": "Alice"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5606",
+        "historicalDate": "2376-04",
+        "starDate": "53263.2",
+        "episodeName": "Riddles"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5607",
+        "historicalDate": "2376-03",
+        "starDate": "53167.9",
+        "episodeName": "Dragon's Teeth"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5608",
+        "historicalDate": "2376-04",
+        "starDate": "53292.7",
+        "episodeName": "One Small Step"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5609",
+        "historicalDate": "2376-04",
+        "starDate": "53329",
+        "episodeName": "Voyager Conspiracy"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5610",
+        "historicalDate": "2376",
+        "episodeName": "Pathfinder"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5611",
+        "historicalDate": "2376",
+        "episodeName": "Fair Haven"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5612",
+        "historicalDate": "2376",
+        "episodeName": "Blink of an Eye"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5613",
+        "historicalDate": "2376-07",
+        "starDate": "53556.4",
+        "episodeName": "Virtuoso"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5614",
+        "historicalDate": "2376",
+        "episodeName": "Memorial"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5615",
+        "historicalDate": "2376-06",
+        "starDate": "53447.2",
+        "episodeName": "Tsunkatse"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5616",
+        "historicalDate": "2376",
+        "episodeName": "Collective"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5617",
+        "historicalDate": "2376",
+        "episodeName": "Spirit Folk"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5618",
+        "historicalDate": "2376-09",
+        "starDate": "53679.4",
+        "episodeName": "Ashes to Ashes"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5619",
+        "historicalDate": "2376",
+        "episodeName": "Child's Play"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5620",
+        "historicalDate": "2376-10",
+        "starDate": "53753.2",
+        "episodeName": "Good Shepherd"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5621",
+        "historicalDate": "2376-11",
+        "starDate": "53849.2",
+        "episodeName": "Live Fast and Prosper"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5622",
+        "historicalDate": "2376-11",
+        "starDate": "53896",
+        "episodeName": "Muse"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5623",
+        "historicalDate": "2376",
+        "episodeName": "Fury"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5624",
+        "historicalDate": "2376",
+        "episodeName": "Life Line"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5625",
+        "historicalDate": "2376",
+        "episodeName": "Haunting of Deck Twelve"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5626",
+        "historicalDate": "2376-12",
+        "episodeName": "Unimatrix Zero, Part I"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5701",
+        "historicalDate": "2377-01",
+        "starDate": "54014.4",
+        "episodeName": "Unimartix Zero, Part 2"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5702",
+        "historicalDate": "2377-02",
+        "starDate": "54129.4",
+        "episodeName": "Imperfection"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5703",
+        "historicalDate": "2377-01",
+        "starDate": "54058.6",
+        "episodeName": "Drive"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5704",
+        "historicalDate": "2377-01",
+        "starDate": "54090.4",
+        "episodeName": "Repression"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5705",
+        "historicalDate": "2377",
+        "episodeName": "Critical Care"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5706",
+        "historicalDate": "2377-03",
+        "starDate": "54208.3",
+        "episodeName": "Inside Man"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5707",
+        "historicalDate": "2377-03",
+        "starDate": "54238.3",
+        "episodeName": "Body and Soul"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5708",
+        "historicalDate": "2377-04",
+        "starDate": "54274.7",
+        "episodeName": "Nightingale"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5709",
+        "historicalDate": "2377",
+        "episodeName": "Flesh and Blood, Part I"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5710",
+        "historicalDate": "2377-05",
+        "starDate": "54337.5",
+        "episodeName": "Flesh and Blood, Part II"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5711",
+        "historicalDate": "2377",
+        "episodeName": "Shattered"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5712",
+        "historicalDate": "2377-06",
+        "starDate": "54452.6",
+        "episodeName": "Lineage"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5713",
+        "historicalDate": "2377",
+        "episodeName": "Repentance"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5714",
+        "historicalDate": "2377-07",
+        "starDate": "54518.2",
+        "episodeName": "Prophecy"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5715",
+        "historicalDate": "2377-07",
+        "starDate": "54553.4",
+        "episodeName": "Void"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5716",
+        "historicalDate": "2377-08",
+        "starDate": "54584.3",
+        "episodeName": "Workforce, Part I"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5717",
+        "historicalDate": "2377-08",
+        "starDate": "54622.4",
+        "episodeName": "Workforce, Part II"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5718",
+        "historicalDate": "2377",
+        "episodeName": "Human Error"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5719",
+        "historicalDate": "2377-09",
+        "starDate": "54704.5",
+        "episodeName": "Q2"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5720",
+        "historicalDate": "2377-09",
+        "starDate": "54732.3",
+        "episodeName": "Author, Author"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5721",
+        "historicalDate": "2377-10",
+        "starDate": "54775.4",
+        "episodeName": "Friendship One"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5722",
+        "historicalDate": "2377-10",
+        "starDate": "54827.7",
+        "episodeName": "Natural Law"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5723",
+        "historicalDate": "2377-11",
+        "starDate": "54868.6",
+        "episodeName": "Homestead"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5724",
+        "historicalDate": "2377-11",
+        "starDate": "54890.7",
+        "episodeName": "Renaissance Man"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5725",
+        "historicalDate": "2377",
+        "episodeName": "Endgame, Part I"
+      },
+      {
+        "series": "VGR",
+        "episodeNumber": "5726",
+        "historicalDate": "2377-12",
+        "starDate": "54973.4",
+        "episodeName": "Endgame, Part II"
+      },
+      {
+        "series": "STX",
+        "episodeNumber": "M-10",
+        "historicalDate": "2379",
+        "starDate": "56844.9",
+        "episodeName": "Star Trek: Nemesis"
+      },
+      {
+        "series": "JJ1",
+        "episodeNumber": "M-11",
+        "historicalDate": "2258",
+        "starDate": "2258.42",
+        "episodeName": "Star Trek"
+      },
+      {
+        "series": "JJ2",
+        "episodeNumber": "M-12",
+        "historicalDate": "2259",
+        "starDate": "2259.55",
+        "episodeName": "Star Trek Into Darkness"
+      }
+    ]
+  }
+}
