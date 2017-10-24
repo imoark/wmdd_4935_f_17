@@ -71,3 +71,22 @@ past two weeks.
 
 [using firebase as a REST API](https://firebase.google.com/docs/reference/rest/database/)
 
+## httpie postman curl
+
+These are tools that can be used to help test an API.
+[Curl](https://curl.haxx.se/) and [httpie](https://httpie.org/) are command line
+tools. If you are using a Unix like operating system you may already have curl
+on your system, but I find httpie has a few little features that make me prefer
+it. If you prefer to use a GUI tool you may want to use [postman](https://www.getpostman.com/).
+
+We are going to be testing APIs often throughout the remainder of this class, 
+for today we are just going to use httpie to test our firebase datebase. If you
+want to follow along or try this at home read the instructions on installing
+httpie for your operating system. If you are using C9 you are using an Ubuntu
+based operating system and you can install httpie with apt like this:
+
+`sudo apt-get update` this updates the list of packages
+`sudo apt-get install httpie` this installs httpie
+
+If you have a newer version of Ubuntu(16.04 or later) on your own machine look
+at using apt, instead of apt-get.
