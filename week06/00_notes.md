@@ -1,4 +1,4 @@
-# week 06 june 08 2017
+# week 06 Oct 19 2017
 
 ## agenda
 
