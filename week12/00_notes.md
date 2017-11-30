@@ -67,3 +67,9 @@ we will look a few of these today.
 [now](https://zeit.co/now)  
 [now docs](https://zeit.co/docs)  
 [awesome zeit](https://github.com/zeit/awesome-zeit)
+
+### node_prune
+
+remove unnecessary files from node_modules
+
+[node_prune](https://github.com/tj/node-prune)
